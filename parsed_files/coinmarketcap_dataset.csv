@@ -1,0 +1,111 @@
+,time,name,price,symbol,marketcap,link,img
+0,20210928145727,Bitcoin,41611.73,BTC,783501539421,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+1,20210928145727,Ethereum,2851.04,ETH,335602045413,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+2,20210928145727,Tether,1.00,USDT,68557040865,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+3,20210928145727,Cardano,2.08,ADA,66582692441,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+4,20210928145727,Binance Coin,334.81,BNB,56294402583,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+5,20210928145727,XRP,0.9109,XRP,42554363728,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+6,20210928145727,Solana,130.81,SOL,38904477721,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+7,20210928145727,USD Coin,1.00,USDC,31313423551,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+8,20210928145727,Polkadot,26.86,DOT,26530893338,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+9,20210928145727,Dogecoin,0.1996,DOGE,26242988006,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+10,20210928150329,Bitcoin,41585.40,BTC,783005781225,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+11,20210928150329,Ethereum,2838.10,ETH,334079013539,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+12,20210928150329,Tether,1.00,USDT,68554293673,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+13,20210928150329,Cardano,2.08,ADA,66454455249,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+14,20210928150329,Binance Coin,334.00,BNB,56157147813,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+15,20210928150329,XRP,0.9101,XRP,42518050532,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+16,20210928150329,Solana,131.01,SOL,38964789777,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+17,20210928150329,USD Coin,1.00,USDC,31311166638,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+18,20210928150329,Polkadot,26.77,DOT,26442190432,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+19,20210928150329,Dogecoin,0.1992,DOGE,26189935722,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+20,20210928145127,Bitcoin,41701.24,BTC,785186915985,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+21,20210928145127,Ethereum,2854.95,ETH,336061980953,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+22,20210928145127,Tether,1.00,USDT,68555121129,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+23,20210928145127,Cardano,2.09,ADA,66779077519,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+24,20210928145127,Binance Coin,335.24,BNB,56367054166,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+25,20210928145127,XRP,0.9133,XRP,42668857887,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+26,20210928145127,Solana,131.20,SOL,39020694910,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+27,20210928145127,USD Coin,1.00,USDC,31313209612,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+28,20210928145127,Polkadot,26.90,DOT,26564715376,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+29,20210928145127,Dogecoin,0.1999,DOGE,26275888152,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+30,20210928150631,Bitcoin,41585.40,BTC,783005781225,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+31,20210928150631,Ethereum,2838.10,ETH,334079013539,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+32,20210928150631,Tether,1.00,USDT,68554293673,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+33,20210928150631,Cardano,2.08,ADA,66454455249,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+34,20210928150631,Binance Coin,334.00,BNB,56157147813,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+35,20210928150631,XRP,0.9101,XRP,42518050532,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+36,20210928150631,Solana,131.01,SOL,38964789777,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+37,20210928150631,USD Coin,1.00,USDC,31311166638,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+38,20210928150631,Polkadot,26.77,DOT,26442190432,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+39,20210928150631,Dogecoin,0.1992,DOGE,26189935722,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+40,20210928150430,Bitcoin,41585.40,BTC,783005781225,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+41,20210928150430,Ethereum,2838.10,ETH,334079013539,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+42,20210928150430,Tether,1.00,USDT,68554293673,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+43,20210928150430,Cardano,2.08,ADA,66454455249,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+44,20210928150430,Binance Coin,334.00,BNB,56157147813,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+45,20210928150430,XRP,0.9101,XRP,42518050532,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+46,20210928150430,Solana,131.01,SOL,38964789777,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+47,20210928150430,USD Coin,1.00,USDC,31311166638,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+48,20210928150430,Polkadot,26.77,DOT,26442190432,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+49,20210928150430,Dogecoin,0.1992,DOGE,26189935722,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+50,20210928150129,Bitcoin,41644.72,BTC,784122656646,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+51,20210928150129,Ethereum,2852.05,ETH,335721277036,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+52,20210928150129,Tether,1.00,USDT,68558201978,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+53,20210928150129,Cardano,2.07,ADA,66415871227,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+54,20210928150129,Binance Coin,334.19,BNB,56190255180,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+55,20210928150129,XRP,0.9115,XRP,42581662938,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+56,20210928150129,Solana,131.37,SOL,39071941916,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+57,20210928150129,USD Coin,1.00,USDC,31310899124,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+58,20210928150129,Polkadot,26.90,DOT,26567368000,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+59,20210928150129,Dogecoin,0.1996,DOGE,26241749898,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+60,20210928145827,Bitcoin,41644.72,BTC,784122656646,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+61,20210928145827,Ethereum,2852.05,ETH,335721277036,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+62,20210928145827,Tether,1.00,USDT,68558201978,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+63,20210928145827,Cardano,2.07,ADA,66415871227,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+64,20210928145827,Binance Coin,334.19,BNB,56190255180,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+65,20210928145827,XRP,0.9115,XRP,42581662938,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+66,20210928145827,Solana,131.37,SOL,39071941916,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+67,20210928145827,USD Coin,1.00,USDC,31310899124,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+68,20210928145827,Polkadot,26.90,DOT,26567368000,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+69,20210928145827,Dogecoin,0.1996,DOGE,26241749898,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+70,20210928150531,Bitcoin,41585.40,BTC,783005781225,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+71,20210928150531,Ethereum,2838.10,ETH,334079013539,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+72,20210928150531,Tether,1.00,USDT,68554293673,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+73,20210928150531,Cardano,2.08,ADA,66454455249,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+74,20210928150531,Binance Coin,334.00,BNB,56157147813,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+75,20210928150531,XRP,0.9101,XRP,42518050532,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+76,20210928150531,Solana,131.01,SOL,38964789777,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+77,20210928150531,USD Coin,1.00,USDC,31311166638,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+78,20210928150531,Polkadot,26.77,DOT,26442190432,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+79,20210928150531,Dogecoin,0.1992,DOGE,26189935722,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+80,20210928150229,Bitcoin,41644.72,BTC,784122656646,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+81,20210928150229,Ethereum,2852.05,ETH,335721277036,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+82,20210928150229,Tether,1.00,USDT,68558201978,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+83,20210928150229,Cardano,2.07,ADA,66415871227,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+84,20210928150229,Binance Coin,334.19,BNB,56190255180,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+85,20210928150229,XRP,0.9115,XRP,42581662938,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+86,20210928150229,Solana,131.37,SOL,39071941916,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+87,20210928150229,USD Coin,1.00,USDC,31310899124,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+88,20210928150229,Polkadot,26.90,DOT,26567368000,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+89,20210928150229,Dogecoin,0.1996,DOGE,26241749898,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+90,20210928145928,Bitcoin,41644.72,BTC,784122656646,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+91,20210928145928,Ethereum,2852.05,ETH,335721277036,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+92,20210928145928,Tether,1.00,USDT,68558201978,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+93,20210928145928,Cardano,2.07,ADA,66415871227,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+94,20210928145928,Binance Coin,334.19,BNB,56190255180,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+95,20210928145928,XRP,0.9115,XRP,42581662938,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+96,20210928145928,Solana,131.37,SOL,39071941916,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+97,20210928145928,USD Coin,1.00,USDC,31310899124,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+98,20210928145928,Polkadot,26.90,DOT,26567368000,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+99,20210928145928,Dogecoin,0.1996,DOGE,26241749898,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+100,20210928150028,Bitcoin,41644.72,BTC,784122656646,/currencies/bitcoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+101,20210928150028,Ethereum,2852.05,ETH,335721277036,/currencies/ethereum/,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+102,20210928150028,Tether,1.00,USDT,68558201978,/currencies/tether/,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+103,20210928150028,Cardano,2.07,ADA,66415871227,/currencies/cardano/,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+104,20210928150028,Binance Coin,334.19,BNB,56190255180,/currencies/binance-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+105,20210928150028,XRP,0.9115,XRP,42581662938,/currencies/xrp/,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+106,20210928150028,Solana,131.37,SOL,39071941916,/currencies/solana/,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+107,20210928150028,USD Coin,1.00,USDC,31310899124,/currencies/usd-coin/,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+108,20210928150028,Polkadot,26.90,DOT,26567368000,/currencies/polkadot-new/,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+109,20210928150028,Dogecoin,0.1996,DOGE,26241749898,/currencies/dogecoin/,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
