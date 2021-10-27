@@ -16,9 +16,9 @@ for i in range(1):
 
 	for j in range(5):
 		page_num=j+1
-		f = open("html_files/coinmarketcap" + "_" + current_time + ".html", "wb")
+		f = open("html_files/coinmarketcap" + "_" + str(page_num) + "_" + current_time + ".html", "wb")
 
-		response = urllib.request.urlopen("http://coinmarketcap.com/?pages=" + str(page_num))
+		response = urllib.request.urlopen("http://coinmarketcap.com/?page=" + str(page_num))
 		html = response.read()
 
 
