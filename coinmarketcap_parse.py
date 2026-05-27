@@ -11,6 +11,8 @@ for file_name in glob.glob("html_files/*.html"):
 	# file_name = "html_files/coinmarketcap20210928145827.html"
 	# print(file_name)
 
+#Scraping the time and using it to generate unique file names for different times of access.
+#Pulling too much data from a single site at one time can lead to getting blocked by the site. 
 	scrape_time = os.path.basename(file_name).replace("coinmarketcap","").replace(".html","")
 	print(scrape_time)
 	f = open(file_name, "r")
